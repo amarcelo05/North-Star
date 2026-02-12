@@ -1,5 +1,0 @@
-/* Placeholder styles — no logic yet. Approve structure before changes. */
-:root{--accent:#0066cc;--bg:#fff;--muted:#666}
-body{font-family:Inter, Arial, sans-serif;color:#222;background:var(--bg);margin:0}
-.nav{display:flex;gap:1rem;padding:1rem;background:#f7f7f7;border-bottom:1px solid #e6e6e6}
-.container{max-width:980px;margin:2rem auto;padding:0 1rem}
